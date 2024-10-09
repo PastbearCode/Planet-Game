@@ -1,0 +1,1 @@
+{"libs" : ["raylib"], "lflags-posix" : ["-L."], "lflags-osx" : ["-rpath", "@executable_path/"], "lflags-linux" : ["-rpath=$$ORIGIN"], "description" : "A game about gravity.", "name" : "gravity-game", "dependencies" : {"raylib-d" : "~>5.0.1"}, "authors" : ["pastbear"], "copyright" : "Copyright © 2024, pastbear", "license" : "MIT"}
